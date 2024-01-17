@@ -1,0 +1,4 @@
+baseURL = 'https://md.kelegele.com/'
+languageCode = 'zh-cn'
+title = '单词卡片'
+theme = 'hugo-pure'
