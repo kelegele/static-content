@@ -60,7 +60,7 @@ draft = false
 
 发送邮件到：
 
-kelegele@qq.com
+felicis1024@gmail.com
 
 **开发团队：Kelegele Team**
 
