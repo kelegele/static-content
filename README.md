@@ -1,6 +1,6 @@
 # kelegele-static-content
 
-单词卡片 / 不纠结 App 官网静态站点
+可了个乐 Docs 官方文档站点
 
 ## 快速开始
 
@@ -24,7 +24,8 @@ hugo
 
 ```
 ├── content/          # Markdown 内容
-│   └── easecall/     # 不纠结 App 相关页面
+│   ├── easecall/     # 不纠结 App 相关页面
+│   └── vocab-card/   # 单词卡片相关页面
 ├── layouts/          # 自定义布局模板
 ├── static/           # 静态资源
 ├── assets/           # CSS/JS 资源
