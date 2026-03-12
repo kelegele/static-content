@@ -33,7 +33,7 @@
 </div>
 
 <!-- {{- partial "footer" . }} -->
-    
+
 {{- $js := slice }}
 {{- $js = $js | append (resources.Get "js/main.js") }}
 {{- $js = $js | resources.Concat "bundle.js" }}
